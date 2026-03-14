@@ -13,4 +13,3 @@ jobs:
       enable-eunit: false
       enable-ct: true
       enable-fmt: false
-      enable-audit: true
